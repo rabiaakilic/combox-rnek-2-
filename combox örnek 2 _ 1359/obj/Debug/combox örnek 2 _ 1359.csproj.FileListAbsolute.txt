@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\bin\Debug\combox örnek 2 _ 1359.exe.config
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\bin\Debug\combox örnek 2 _ 1359.exe
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\bin\Debug\combox örnek 2 _ 1359.pdb
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\obj\Debug\combox örnek 2 _ 1359.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\obj\Debug\combox örnek 2 _ 1359.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\obj\Debug\combox_örnek_2___1359.Form1.resources
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\obj\Debug\combox_örnek_2___1359.Properties.Resources.resources
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\obj\Debug\combox örnek 2 _ 1359.csproj.GenerateResource.cache
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\obj\Debug\combox örnek 2 _ 1359.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\obj\Debug\combox örnek 2 _ 1359.exe
+C:\Users\User\source\repos\combox örnek 2 _ 1359\combox örnek 2 _ 1359\obj\Debug\combox örnek 2 _ 1359.pdb
